@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  7 NOV 2018 13:51
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  7 NOV 2018 19:45
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.122 seconds
+luaotfload | main : initialization completed in 0.125 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
@@ -942,12 +942,12 @@ Here is how much of LuaTeX's memory you used:
  519 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 2 glue, 1 kern, 3 glyph, 10 attribute, 53 glue_spec
 , 10 attribute_list, 1 write nodes
-   avail lists: 1:1,2:667,3:222,4:11,5:136,6:53,7:3601,8:65,9:245,10:4,11:272
+   avail lists: 1:1,2:613,3:206,4:11,5:120,6:50,7:3248,8:60,9:232,10:4,11:245
  18527 multiletter control sequences out of 65536+600000
  62 fonts using 14106359 bytes
  53i,15n,96p,767b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Times New Roman Bold.ttf></Library/Fonts/Times New Roman.ttf>
-Output written on cv.pdf (2 pages, 78009 bytes).
+Output written on cv.pdf (2 pages, 77946 bytes).
 
 PDF statistics: 25 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream

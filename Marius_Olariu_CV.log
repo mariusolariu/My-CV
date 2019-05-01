@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  17 JAN 2019 12:40
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  5 MAR 2019 18:02
  restricted system commands enabled.
 **Marius_Olariu_CV.tex
 (./Marius_Olariu_CV.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.224 seconds
+luaotfload | main : initialization completed in 0.240 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
@@ -784,9 +784,9 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks28
 \verbatim@in@stream=\read2
 )
-No file Marius_Olariu_CV.aux.
-
+(./Marius_Olariu_CV.aux)
 \openout1 = Marius_Olariu_CV.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
@@ -801,6 +801,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
@@ -924,7 +925,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--26
 []\TU/TimesNewRoman(0)/m/n/10.95 Used Git for ver-sion con-trol, Ger-rit - con-
-tin-uos in-te-gra-tion, Jira - tasks/bugs man-age-ment,
+tin-u-ous in-te-gra-tion, Jira - tasks/bugs man-age-ment,
  []
 
 [1
@@ -937,17 +938,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14697 strings out of 494413
+ 14702 strings out of 494413
  125171,552014 words of node,token memory allocated
  519 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 2 glue, 1 kern, 3 glyph, 10 attribute, 53 glue_spec
 , 10 attribute_list, 1 write nodes
-   avail lists: 1:2,2:613,3:206,4:11,5:120,6:50,7:3245,8:60,9:232,10:4,11:246
+   avail lists: 1:1,2:613,3:206,4:12,5:120,6:50,7:3248,8:60,9:232,10:4,11:247
  18527 multiletter control sequences out of 65536+600000
  62 fonts using 14106359 bytes
  53i,15n,96p,781b,542s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Times New Roman Bold.ttf></Library/Fonts/Times New Roman.ttf>
-Output written on Marius_Olariu_CV.pdf (2 pages, 77938 bytes).
+Output written on Marius_Olariu_CV.pdf (2 pages, 77934 bytes).
 
 PDF statistics: 25 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream

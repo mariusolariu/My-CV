@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.15)  21 JUL 2021 23:02
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.15)  21 JUL 2021 23:09
  restricted system commands enabled.
 **./Marius_Olariu_CV.tex
 (./Marius_Olariu_CV.tex
@@ -55,7 +55,7 @@ Lua module: luaotfload-multiscript 2019-09-13 3.00 luaotfload submodule / multis
 cript
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.128 seconds
+luaotfload | main : initialization completed in 0.125 seconds
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
 (/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/article.cls
@@ -784,7 +784,7 @@ Here is how much of LuaTeX's memory you used:
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/
 Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/
 Times New Roman.ttf>
-Output written on Marius_Olariu_CV.pdf (2 pages, 102002 bytes).
+Output written on Marius_Olariu_CV.pdf (2 pages, 101989 bytes).
 
 PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

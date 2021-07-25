@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.15)  21 JUL 2021 23:09
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.15)  25 JUL 2021 12:52
  restricted system commands enabled.
 **./Marius_Olariu_CV.tex
 (./Marius_Olariu_CV.tex
@@ -55,7 +55,7 @@ Lua module: luaotfload-multiscript 2019-09-13 3.00 luaotfload submodule / multis
 cript
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.125 seconds
+luaotfload | main : initialization completed in 0.131 seconds
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
 (/usr/local/texlive/2019basic/texmf-dist/tex/latex/base/article.cls
@@ -621,23 +621,44 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks28
 \verbatim@in@stream=\read2
 )
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+
+(/usr/local/texlive/2019basic/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
 (./Marius_Olariu_CV.aux)
 \openout1 = Marius_Olariu_CV.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -679,64 +700,64 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 13.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 13.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 13.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 13.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 13.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 13.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 13.
-LaTeX Font Info:    Redeclaring math accent \check on input line 13.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 13.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 13.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 13.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 13.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 13.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 15.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 15.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 15.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 15.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 15.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 15.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 15.
+LaTeX Font Info:    Redeclaring math accent \check on input line 15.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 15.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 15.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 15.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 15.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 15.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 13.
+(Font)              `operators' in the math version `normal' on input line 15.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 13
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 15
 .
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 13.
+(Font)              `operators' in the math version `bold' on input line 15.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 1
-3.
+5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on i
-nput line 13.
+nput line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 
-13.
+15.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/bx/n on input line 
-13.
+15.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 13.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 13.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 15.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/bx/n on 
-input line 13.
+input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/bx/it on input lin
-e 13.
+e 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 13.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 15.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 13.
-LaTeX Info: Redefining \microtypecontext on input line 13.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 15.
+LaTeX Info: Redefining \microtypecontext on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `smallcapsi'.
@@ -750,7 +771,20 @@ LaTeX Warning: Command \showhyphens  has changed.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
-(/usr/local/texlive/2019basic/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(/usr/local/texlive/2019basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen170
+\scratchbox=\box56
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen171
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2019basic/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
@@ -760,7 +794,7 @@ kokoko
 \spaceskip 
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
-(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 18.
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 20.
 
 [1
 
@@ -772,19 +806,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17000 strings out of 493863
+ 17942 strings out of 493863
  125171,552014 words of node,token memory allocated
  510 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 52 glue_spec,
  8 attribute_list, 1 write nodes
-   avail lists: 2:611,3:195,4:9,5:146,6:53,7:4322,8:2,9:317,10:5,11:311
- 21320 multiletter control sequences out of 65536+600000
+   avail lists: 2:709,3:201,4:75,5:157,6:53,7:4195,8:1,9:332,10:4,11:292
+ 22234 multiletter control sequences out of 65536+600000
  70 fonts using 17122159 bytes
- 60i,16n,112p,805b,539s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 60i,16n,112p,805b,547s stack positions out of 5000i,500n,10000p,200000b,100000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/
 Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/
 Times New Roman.ttf>
-Output written on Marius_Olariu_CV.pdf (2 pages, 101989 bytes).
+Output written on Marius_Olariu_CV.pdf (2 pages, 102185 bytes).
 
 PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

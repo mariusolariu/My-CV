@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  20 JUN 2024 20:30
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  15 JUL 2024 10:28
  restricted system commands enabled.
 **./Marius_Olariu_CV.tex
 (./Marius_Olariu_CV.tex
@@ -641,7 +641,7 @@ Here is how much of LuaTeX's memory you used:
  561 words of node memory still in use:
    8 hlist, 2 vlist, 3 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 8 
 attribute, 53 glue_spec, 8 attribute_list, 1 write nodes
-   avail lists: 2:867,3:412,4:114,5:127,6:102,7:8852,8:1,9:622,10:10,11:727,12:1
+   avail lists: 2:867,3:412,4:114,5:127,6:102,7:8856,8:1,9:622,10:10,11:727,12:1
 
  31227 multiletter control sequences out of 65536+600000
  60 fonts using 12717023 bytes

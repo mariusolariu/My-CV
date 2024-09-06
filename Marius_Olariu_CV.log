@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  4 SEP 2024 18:22
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  6 SEP 2024 15:45
  restricted system commands enabled.
 **./Marius_Olariu_CV.tex
 (./Marius_Olariu_CV.tex
@@ -624,7 +624,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./Marius_Olariu_CV.aux)
+[2] [3] (./Marius_Olariu_CV.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -641,17 +641,17 @@ Here is how much of LuaTeX's memory you used:
  561 words of node memory still in use:
    8 hlist, 2 vlist, 3 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 8 
 attribute, 53 glue_spec, 8 attribute_list, 1 write nodes
-   avail lists: 2:854,3:404,4:140,5:129,6:96,7:9241,8:1,9:574,10:10,11:724,12:1
+   avail lists: 2:881,3:418,4:126,5:127,6:98,7:9105,8:1,9:602,10:9,11:737,12:1
  31227 multiletter control sequences out of 65536+600000
  60 fonts using 12717023 bytes
  94i,16n,128p,1014b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/
 Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/
 Times New Roman.ttf>
-Output written on Marius_Olariu_CV.pdf (2 pages, 102684 bytes).
+Output written on Marius_Olariu_CV.pdf (3 pages, 103883 bytes).
 
-PDF statistics: 32 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+PDF statistics: 35 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
